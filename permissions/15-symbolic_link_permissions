@@ -1,3 +1,0 @@
-#!/bin/bash
-# Change link owner
-chown -h vincent:staff _hello
