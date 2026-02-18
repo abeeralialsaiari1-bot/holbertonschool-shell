@@ -1,2 +1,3 @@
 #!/bin/bash
+# Change owner and group
 chown vincent:staff *

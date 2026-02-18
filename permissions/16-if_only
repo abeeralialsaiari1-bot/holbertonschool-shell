@@ -1,2 +1,3 @@
 #!/bin/bash
+# Change only if owner is guillaume
 chown --from=guillaume vincent hello
